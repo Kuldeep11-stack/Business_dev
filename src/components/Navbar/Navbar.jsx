@@ -11,7 +11,7 @@ const Navbar = () => {
       <div className="container">
         <div className="n-container">
           <div className="n-logo">
-            <span>left</span>
+            <span>FUNDLELO</span>
           </div>
 
           <div className="n-right">
