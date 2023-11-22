@@ -2,6 +2,7 @@
     background-color: var(--primary-color);
     height: 120vh;
     overflow: hidden;
+   
 }
 
 .h-wrapper .container{
@@ -12,7 +13,9 @@
    display: flex;
    align-items: center;
    justify-content:  space-around;
-   position:relative
+   position:relative;
+
+   
 }
 
 .h-left{
@@ -109,7 +112,7 @@
         flex-direction: column;
         align-items: center;
         gap:4rem;
-        padding-top: 3rem;
+        padding-bottom: 3rem;
     }
     .h-arrow{
         display: none;
